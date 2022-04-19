@@ -1,10 +1,3 @@
-- 👋 Hi, My name is David Oladipo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning REACT, REDUX
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+🧑🏾‍💻  Currently focused on full scale web and software development .
 
-<!---
-officemahn/officemahn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💬  For professional enquiries ping-me on LinkedIn.
